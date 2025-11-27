@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+Pillow
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+scikit-learn
+joblib
+numpy
+streamlit
+requests
+locust
+python-multipart

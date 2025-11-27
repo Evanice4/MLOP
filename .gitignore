@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
+
+# Large files
+*.pyd
+*.dll
+*.pt
+
+# Data
+data/train/
+data/test/
+data/valid/
+
+# IDE
+.vscode/
